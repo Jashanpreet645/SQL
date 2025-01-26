@@ -1,5 +1,5 @@
 REM   Script: LAB assignment-1
-REM   LAB assignment-1(part-2)
+REM   LAB assignment-1
 
 create table student(  
     Rno int,  
